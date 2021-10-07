@@ -2,11 +2,6 @@
   "dependencies": {
     "husky": "^7.0.2"
   },
-  "husky": {
-    "hooks": {
-      "pre-commit": "echo \"[Husky] pre-commit\""
-    }
-  },
   "devDependencies": {
     "husky": "^7.0.0"
   },
